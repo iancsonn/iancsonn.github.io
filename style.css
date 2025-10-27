@@ -30,8 +30,8 @@ strong {
   align-items: flex-start;
   max-width: 1200px;
   background-color: #f8ceb7;
-  border: 1.5px solid #0f0203;
-  border-radius: 10px;
+  border: 8px solid #0f0203;
+  border-radius: 20px;
   padding: 50px 40px;
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08);
   display: flex;
